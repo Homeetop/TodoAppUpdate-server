@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/Homeetop/TodoAppUpdate-server/releases/download/linux-x64-prod-0.0.2/topz-todo-app-0.0.2.AppImage",
-    "install": "https://github.com/Homeetop/TodoAppUpdate-server/releases/download/linux-x64-prod-0.0.2/topz-todo-app-0.0.2.AppImage",
-    "version": "0.0.2",
-    "sha256": "1ddd49b62fba6334c68b8b64d3982346c6859889e7d08259021aab77454eb6bc"
+    "update": "https://github.com/Homeetop/TodoAppUpdate-server/releases/download/linux-x64-prod-0.0.3/topz-todo-app-0.0.3.AppImage",
+    "install": "https://github.com/Homeetop/TodoAppUpdate-server/releases/download/linux-x64-prod-0.0.3/topz-todo-app-0.0.3.AppImage",
+    "version": "0.0.3",
+    "sha256": "6b6d320d70cd30f4e1841a877c4ec66a4541085a651f9ca65ca389336758dea9"
   }
 }
